@@ -1,10 +1,12 @@
 # :school: Develop Study Log
 
 ## 2023년
+- [[인프런] 호돌맨의 요절복통 개발쇼 - 시즌3](https://github.com/heechul90/study-heechlog-server)
 - [[인프런] 토비의 스프링 부트](https://github.com/heechul90/study-toby-springboot)
 
 ## 2022년
-- [[인프런] 호돌맨의 요절복통 개발쇼](https://github.com/heechul90/study-heechlog-server)
+- [[인프런] 호돌맨의 요절복통 개발쇼 - 시즌2](https://github.com/heechul90/study-heechlog-server)
+- [[인프런] 호돌맨의 요절복통 개발쇼 - 시즌1](https://github.com/heechul90/study-heechlog-server)
 - [[스프링 시큐리티]](https://github.com/heechul90/study-security-basic)
 - [[패스트 캠퍼스] K-Digital 기초역량훈련(Java & SpringBoot로 시작하는 웹 프로그래밍)]()
 - [[인프런] 스프링 완전 정복 시리즈](https://github.com/heechul90/study-spring-start)
