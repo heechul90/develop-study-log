@@ -1,6 +1,7 @@
 # :school: Develop Study Log
 
 ## 2023년
+- [[스터디] Real MySQL 8.0 개발자와 DBA를 위한 MySQL 실전 가이드 - 1권]()
 - [[인프런] 호돌맨의 요절복통 개발쇼 - 시즌3](https://github.com/heechul90/study-heechlog-server)
 - [[인프런] 토비의 스프링 부트](https://github.com/heechul90/study-toby-springboot)
 
