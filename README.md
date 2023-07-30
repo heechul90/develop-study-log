@@ -23,8 +23,8 @@
 
 ## 2019년
 - [[딥러닝] 딥러닝 개념 및 실습 세미나](https://github.com/heechul90/seminar-machine-learning)
-- [[딥려닝] 모두의 딥러닝](https://github.com/heechul90/study-deep-learning)
-- [[파이썬 문법]](https://github.com/heechul90/study-python-basic-1)
+- [[BOOK] 딥러닝 - 모두의 딥러닝](https://github.com/heechul90/study-deep-learning)
+- [[BOOK] 파이썬 - 문법](https://github.com/heechul90/study-python-basic-1)
 - [[빅데이터를 활용한 스마트데이터 전문가 양성과정] 파이널 프로젝트](https://github.com/heechul90/bigdata-class-final-project)
 - [[빅데이터를 활용한 스마트데이터 전문가 양성과정] 통계 프로젝트](https://github.com/heechul90/bigdata-class-project)
 - [[빅데이터를 활용한 스마트데이터 전문가 양성과정] 하둡, 하이브](https://github.com/heechul90/bigdata-class-hadoop-hive)
