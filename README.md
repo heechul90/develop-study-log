@@ -8,18 +8,18 @@
 ## 2022년
 - [[인프런] 호돌맨의 요절복통 개발쇼 - 시즌2](https://github.com/heechul90/study-heechlog-server)
 - [[인프런] 호돌맨의 요절복통 개발쇼 - 시즌1](https://github.com/heechul90/study-heechlog-server)
-- [[스프링 시큐리티]](https://github.com/heechul90/study-security-basic)
-- [[패스트 캠퍼스] K-Digital 기초역량훈련(Java & SpringBoot로 시작하는 웹 프로그래밍)]()
+- [[패스트캠퍼스] 스프링 시큐리티](https://github.com/heechul90/study-security-basic)
+- [[패스트캠퍼스] K-Digital 기초역량훈련(Java & SpringBoot로 시작하는 웹 프로그래밍)]()
 - [[인프런] 스프링 완전 정복 시리즈](https://github.com/heechul90/study-spring-start)
 - [[인프런] 스프링 부트 + JPA 실무 완전 정복](https://github.com/heechul90/study-jpa-basic)
 
 ## 2021년
-- [정보처리기사 취득] 2021.08.20
-- [[python-flask] 점프 투 플라스크](https://github.com/heechul90/study-flask)
-- [[python-django] 점프 투 장고](https://github.com/heechul90/study-django)
+- [[자격증] 정보처리기사 취득] 2021.08.20
+- [[BOOK] 점프 투 플라스크](https://github.com/heechul90/study-flask)
+- [[BOOK] 점프 투 장고](https://github.com/heechul90/study-django)
 
 ## 2020년
-- [[Spring5] 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 - 최범균](https://github.com/heechul90/study-spring5)
+- [[BOOK] Spring5, 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 - 최범균](https://github.com/heechul90/study-spring5)
 
 ## 2019년
 - [[딥러닝] 딥러닝 개념 및 실습 세미나](https://github.com/heechul90/seminar-machine-learning)
