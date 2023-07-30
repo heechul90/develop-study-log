@@ -22,7 +22,7 @@
 - [[BOOK] Spring5, 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 - 최범균](https://github.com/heechul90/study-spring5)
 
 ## 2019년
-- [[딥러닝] 딥러닝 개념 및 실습 세미나](https://github.com/heechul90/seminar-machine-learning)
+- [[세미나] 딥러닝 개념 및 실습 세미나](https://github.com/heechul90/seminar-machine-learning)
 - [[BOOK] 딥러닝 - 모두의 딥러닝](https://github.com/heechul90/study-deep-learning)
 - [[BOOK] 파이썬 - 문법](https://github.com/heechul90/study-python-basic-1)
 - [[빅데이터를 활용한 스마트데이터 전문가 양성과정] 파이널 프로젝트](https://github.com/heechul90/bigdata-class-final-project)
