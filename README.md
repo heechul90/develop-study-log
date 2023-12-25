@@ -34,5 +34,4 @@
 - [[빅데이터를 활용한 스마트데이터 전문가 양성과정] R 통계분석](https://github.com/heechul90/bigdata-class-r-statistics)
 - [[빅데이터를 활용한 스마트데이터 전문가 양성과정] R을 활용한 데이터 분석](https://github.com/heechul90/bigdata-class-r-data-analysis)
 
-  
 
