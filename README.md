@@ -1,5 +1,7 @@
 # :school: Develop Study Log
 
+## 2024년
+
 ## 2023년
 - [[스터디] Real MySQL 8.0 개발자와 DBA를 위한 MySQL 실전 가이드 - 2권](https://github.com/heechul90/study-real-mysql)
 - [[스터디] Real MySQL 8.0 개발자와 DBA를 위한 MySQL 실전 가이드 - 1권](https://github.com/heechul90/study-real-mysql)
