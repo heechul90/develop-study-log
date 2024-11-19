@@ -1,8 +1,7 @@
 # :school: Develop Study Log
 
 ## 2024년
-
-- [[인프런] AWS(Amazon Web Service) 중/상급자를 위한 강의](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90/dashboard))
+- [[인프런] AWS(Amazon Web Service) 중/상급자를 위한 강의](https://www.inflearn.com/course/aws-%EC%A4%91%EC%83%81%EA%B8%89%EC%9E%90/dashboard)
 
 ## 2023년
 - [[스터디] Real MySQL 8.0 개발자와 DBA를 위한 MySQL 실전 가이드 - 2권](https://github.com/heechul90/study-real-mysql)
